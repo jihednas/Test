@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle OS
+ Le num‚ro de s‚rie du volume est 8606-7BCD
+
+ R‚pertoire de C:\Users\ADEM-HAROUN\Desktop\test GIT
+
+28/03/2021  12:15    <DIR>          .
+28/03/2021  12:15    <DIR>          ..
+28/03/2021  12:15                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  339ÿ546ÿ972ÿ160 octets libres
